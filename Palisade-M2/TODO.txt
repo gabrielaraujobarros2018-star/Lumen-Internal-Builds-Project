@@ -2,8 +2,6 @@
 PalisadeOS M2 TODO
 ==================
 
-Complete this TODO Within 1 month before PalisadeOS M2 releases.
-
 [Wifi Connection] (Done!)
 - Compile files under /wf_con
 
