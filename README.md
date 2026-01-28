@@ -10,3 +10,7 @@ Later builds, like Lumen M2, Aim to add important missing things to avoid incomp
 2. `Lumen Milestone M`: **Big updates** phase (M1 - M6)
 3. `Lumen Alphis`: Near-finished state; Rewrite phase has begun (Alphis V1 - Alphis V6)
 4. `Lumen Dev Preview`: Rewrite and Compatibility finished; Should boot on a VM atleast (Dev preview DP-01 - Dev preview DP-11); Not Consumer-facing yet
+
+---
+
+This repo only contains **Essential Documentation** for Lumen's development, so Source codes will **not** be included.
